@@ -1,16 +1,16 @@
-# project_Exploratory_data_analysis_Spotify_top_50_songs_2021
-# About the project
-
+Proyecto analisis datos pinguinos 🐧 python
 ### Project context
-
-Project Description: Exploring Spotify Songs in 2021 using Python Libraries
-
-This project analyzes Spotify songs released in 2021 using Python libraries like NumPy, Seaborn, scikit-learn, statsmodels, and SciPy. We preprocess the data, perform exploratory data analysis, and focus on audio features, genre distribution, and correlations. Through visualizations and statistical analysis, we aim to uncover trends, patterns, and insights about popular songs on Spotify in 2021.
+El proyecto_analisis_datos_pinguinos_python es un proyecto en Python que utiliza Google Colaboratory para realizar análisis de datos de pingüinos. Utiliza la biblioteca Pandas para importar, limpiar y analizar los datos, y ofrece funciones para explorar patrones y relaciones interesantes en los datos de los pingüinos. Es una solución escalable y colaborativa para el análisis de datos de pingüinos.
 
 ### Dataset
 
+[data_penguins_raw.csv](https://github.com/Kristianm0/Proyecto_analisis_datos_pinguinos_python/blob/main/tdata_penguins_raw.csv)
     
-[File_top50.csv](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ccbba300-3365-4f3e-882c-9e970eabf632/top50.csv)
-    
+[Proyecto en Google Colaboratory](https://github.com/Kristianm0/Proyecto_analisis_datos_pinguinos_python/blob/main/Proyecto_analisis_datos_pinguinos_python.ipynb)
 
-**[Project on Google colaboratory](https://colab.research.google.com/drive/1k1zF9bA7bMzsFQPUR6SjRBu5jFD7LTtb?usp=sharing)**
+## Pasos 
+1. Abre el documento de Google Colaboratory Proyecto_analisis_datos_pinguinos_python específico.
+2. Sube el dataset data_penguins_raw al entorno de Colaboratory.
+3. En las opciones de ejecución del entorno, elige la opción "Ejecutar todo".
+
+¡Listo! Ahora podrás utilizar el proyecto "Proyecto_analisis_datos_pinguinos_python" y ejecutar todas las celdas en Google Colaboratory para realizar el análisis de datos de los pingüinos.
